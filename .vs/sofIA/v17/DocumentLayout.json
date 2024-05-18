@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Claudio\\Documents\\.Net\\sofIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{487B1107-987A-4E0F-8EF7-800EDE285604}|sofIA.csproj|c:\\users\\claudio\\documents\\.net\\sofia\\services\\answergeneratorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487B1107-987A-4E0F-8EF7-800EDE285604}|sofIA.csproj|solutionrelative:services\\answergeneratorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487B1107-987A-4E0F-8EF7-800EDE285604}|sofIA.csproj|C:\\Users\\Claudio\\Documents\\.Net\\sofIA\\pages\\assistantchatgpt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{487B1107-987A-4E0F-8EF7-800EDE285604}|sofIA.csproj|solutionrelative:pages\\assistantchatgpt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487B1107-987A-4E0F-8EF7-800EDE285604}|sofIA.csproj|C:\\Users\\Claudio\\Documents\\.Net\\sofIA\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{487B1107-987A-4E0F-8EF7-800EDE285604}|sofIA.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\.Net\\sofIA\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\.Net\\sofIA\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:29:11.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssistantChatGPT.razor",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\.Net\\sofIA\\Pages\\AssistantChatGPT.razor",
+              "RelativeDocumentMoniker": "Pages\\AssistantChatGPT.razor",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\.Net\\sofIA\\Pages\\AssistantChatGPT.razor",
+              "RelativeToolTip": "Pages\\AssistantChatGPT.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T12:13:40.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnswerGeneratorServices.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\.Net\\sofIA\\Services\\AnswerGeneratorServices.cs",
+              "RelativeDocumentMoniker": "Services\\AnswerGeneratorServices.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\.Net\\sofIA\\Services\\AnswerGeneratorServices.cs",
+              "RelativeToolTip": "Services\\AnswerGeneratorServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:34:45.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
